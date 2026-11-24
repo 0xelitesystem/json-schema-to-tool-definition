@@ -48,6 +48,6 @@ MIT.
 
 ## Related
 
-- [prompt-cost-calculator](https://github.com/0xelitesystem/prompt-cost-calculator)
-- [prompt-token-meter](https://github.com/0xelitesystem/prompt-token-meter)
+- [prompt-cost-across-models](https://github.com/0xelitesystem/prompt-cost-across-models)
+- [context-window-gauges](https://github.com/0xelitesystem/context-window-gauges)
 - [agent-instructions-file-builder](https://github.com/0xelitesystem/agent-instructions-file-builder)
